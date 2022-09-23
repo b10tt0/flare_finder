@@ -2,8 +2,8 @@
 
 ### manually methods:
 
-- [search.censys.io](search.censys.io): search for misconfigured stuff or grab the ssl key and throw that into:
-- [crt.sh](crt.sh)
+- [search.censys.io](https://search.censys.io/): search for misconfigured stuff or grab the ssl key and throw that into:
+- [crt.sh](https://crt.sh/)
 
 ### auto methods:
 
