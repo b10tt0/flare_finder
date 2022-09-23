@@ -11,3 +11,6 @@
 	searches an IP range for HTTP responses similar to that of the known site (levenshtein algorithm)
 - [CloudFlair](https://github.com/christophetd/CloudFlair):
 	Automates an internet-wide scan of Censys
+
+---
+presentation.md is playable via [lookatme](https://github.com/d0c-s4vage/lookatme)
